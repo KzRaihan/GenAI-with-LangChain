@@ -37,3 +37,5 @@ python-dotenv
 # ============================================================
 numpy
 scikit-learn
+pydantic==2.13.5
+'pydantic[email]'==2.3.0
